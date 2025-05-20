@@ -1,4 +1,6 @@
 body{
-    background-color: black;
-    color: white;
+    background-color: thistle;
+}
+td{
+    border: 2px solid black;
 }
